@@ -2,7 +2,7 @@
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
-| link to | [Bottom-Section-Anchor](table.md#Bottom-Section-Anchor) |
+| link to | [anchor](table.md#Bottom-Section-Anchor) |
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis ipsum vel eleifend ornare. Cras convallis eros nec aliquam consequat. Integer venenatis gravida mauris. Etiam laoreet luctus est ac semper. Maecenas interdum risus non varius viverra. Ut dictum ultricies lectus. Aenean sed tincidunt arcu. Aliquam posuere tempor leo sit amet aliquet. In nec facilisis enim. Ut scelerisque sodales lorem aliquam varius. Morbi ac justo varius, tincidunt ex ut, elementum enim. Aenean maximus condimentum molestie.
 
