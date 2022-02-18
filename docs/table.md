@@ -2,7 +2,7 @@
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
-| link to | [some anchor](#Bottom-Section) |
+| link to | [some anchor](#Bottom-Section-Anchor) |
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis ipsum vel eleifend ornare. Cras convallis eros nec aliquam consequat. Integer venenatis gravida mauris. Etiam laoreet luctus est ac semper. Maecenas interdum risus non varius viverra. Ut dictum ultricies lectus. Aenean sed tincidunt arcu. Aliquam posuere tempor leo sit amet aliquet. In nec facilisis enim. Ut scelerisque sodales lorem aliquam varius. Morbi ac justo varius, tincidunt ex ut, elementum enim. Aenean maximus condimentum molestie.
 
@@ -15,4 +15,4 @@ Pellentesque sollicitudin bibendum justo dictum fermentum. Nunc fringilla pharet
 Quisque egestas felis sit amet tortor pulvinar ullamcorper. Nullam quis nisi at est pharetra varius. Morbi mattis malesuada condimentum. Integer vulputate ornare gravida. Morbi sed lobortis massa. Nunc malesuada posuere consectetur. Proin ullamcorper eros convallis, suscipit dui at, aliquet elit. Nullam at varius dui, quis eleifend metus. Duis cursus, enim sed facilisis accumsan, orci sem consectetur ante, id placerat purus magna sed libero. Maecenas augue sapien, ultrices quis nibh porttitor, porta blandit metus. Praesent at lectus vel tortor lobortis scelerisque. Aenean scelerisque ex quis nisi vehicula volutpat. Integer eu metus ex.
 
 
-#### Bottom Section
+#### Bottom Section Anchor
